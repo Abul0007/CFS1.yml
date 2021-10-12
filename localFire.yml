@@ -1,0 +1,12 @@
+---
+mandatory: True
+question: 
+subquestion:  |
+  ##### Explain to user the relevant proactive measures they need to take
+  ##### Hyperlink some text to direct user to CFS website (where relevant)
+  ##### Legislation will be cited (potentially)
+buttons:
+  - Exit: exit 
+    url: https://www.cfs.sa.gov.au/prepare-for-a-fire/make-a-plan/5-minute-bushfire-plan.jsp
+  ##### exit button directs the user to CFS website (create your own bushfire plan webpage) where it provides with a guide on how to prepare for a fire, for future reference for the user
+---
