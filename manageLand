@@ -1,0 +1,11 @@
+---
+mandatory: True
+question: 
+subquestion:  |
+  ##### Provide information and resources to help the user look after their own property and the native vegetation and animals in their area.
+  ##### Provide advice on land management after a bushfire by directing them to the CFS webpage where they select a region, find the Fire management section and look up information on the current disaster
+  ##### Users to be given the option to contact their Landscape South Australia Office for further inquiries.
+Buttons:
+  - Exit: CFS website
+  - Restart: redirects back to homepage
+---
