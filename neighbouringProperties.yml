@@ -1,0 +1,11 @@
+---
+mandatory: True
+question: 
+subquestion:  |
+  ##### This part will be used to explain to the user the legal responsibilities for both parties and their duties.
+  ##### Would be useful if we provide a list of things the user can can't do/ask their neighbour to do before contacting the local council or the CFS (unless its an urgent matter)
+  ##### Contact details of relevant local council will be displayed depending on the area the land is located in, and probably the CFS where its a matter of urgency
+Buttons:
+- Exit: CFS home page
+- Restart : redirects to homepage
+---
