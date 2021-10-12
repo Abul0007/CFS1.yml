@@ -1,0 +1,22 @@
+---
+mandatory: True
+question: Land Location
+##### Display a pull down field with a list of the locations
+##### A map of the regional areas within adeliade will be displayed on the screen help the user locate where their land is.
+##### An example of the map can be found here <https://www.epa.sa.gov.au/soe_2013/main/intro-overview-of-south.html>
+fields: 
+  - What regional area is your land located in?: MJFland_location
+    choices:
+    - Metropolitan Adelaide
+    - Adelaide Hills
+    - Barossa
+    - Clare Valley
+    - Eyre Peninsula
+    - Fluerieu Peninsula
+    - Flinders Ranges and Outback
+    - Kangaroo Island
+    - Limestone Coast
+    - Murray River, Lakes and Coorong
+    - Riverland
+    - Yorke Peninsula
+---
