@@ -1,0 +1,10 @@
+---
+mandatory: True
+question: 
+subquestion:  |
+  ##### Display relevant info and include relevant provisions to explain next steps?
+  ##### Ask the user the question why they want to clear their land. Options will be displayed as radio buttons or as a pulldown field
+fields:
+  - Why do you want to clear your vegetation?: clear_vegetation
+  choices:
+    - 
