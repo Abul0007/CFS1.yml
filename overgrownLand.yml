@@ -1,0 +1,10 @@
+---
+question: My Land is Overgrown (for now)
+subquestion:  |
+  ##### Explain relevant info...
+  ##### Display a list of things that can be cleared
+  ##### potentially include a guide for the application to clear native vegetation - for detailed information on the application, assessment processes and how it works?
+buttons:
+  - Exit: Directs to CFS Website
+  - Restart: redirects back to home screen
+---
