@@ -9,7 +9,7 @@ fields:
     input type: radio
     choices:
       - There is fire in my area: clearFire
-      - My land is overgrown and I need advice on how I can clear my land: adviceClear
+      - My land is overgrown and I need advice on how I can clear my land: overgrownLand
       - To improve and nourish the soil: nourishSoil
 ##### The user will be directed to the relevant endpoint based on the input inserted
 ---
