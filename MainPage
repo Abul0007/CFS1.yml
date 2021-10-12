@@ -1,2 +1,14 @@
 ---
 mandatory: True
+question: How can we help you?
+##### Display the following fields as radio buttons
+fields:
+  - nolabel: MJFhow_help
+    input type: radio
+    choices:
+      - There is fire in my area. I want to protect myself and my assets: localFire
+      - I want to clear my land: clearLand
+      - I want to manage my land: manageLand
+      - I am concerned about my neighbouring properties. How can I go about asking them to clear their land?: neighbouringProperties
+##### The user will be directed to the relevant endpoint based on the input inserted
+---
