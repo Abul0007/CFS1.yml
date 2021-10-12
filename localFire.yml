@@ -1,6 +1,6 @@
 ---
 mandatory: True
-question: 
+question: Do not panic (replace with a sensible heading)
 subquestion:  |
   ##### Explain to user the relevant proactive measures they need to take
   ##### Hyperlink some text to direct user to CFS website (where relevant)
